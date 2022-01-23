@@ -1,1 +1,7 @@
-/* vanilla css */
+.logo{
+    color: dimgray;
+    font-family: 'Rubik Beastly', cursive;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
