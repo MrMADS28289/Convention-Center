@@ -1,7 +1,9 @@
 .logo{
-    color: dimgray;
     font-family: 'Rubik Beastly', cursive;
 }
 .poppins{
     font-family: 'Poppins', sans-serif;
+}
+.costom-height{
+    height: 500px;
 }
